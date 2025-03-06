@@ -17,7 +17,7 @@ int main()
     double CupsOfButter; // initialize cups of butter
     double CupsOfFlour; // initialize cups of flour
     
-    cout << "Enter the desired numbe of cookies "; //Prompts for user input
+    cout << "Enter the desired number of cookies "; //Prompts for user input
     cin >> Cookies; // Get number of cookies from the user
     cout << endl;
 
